@@ -140,6 +140,8 @@ input, select, textarea {
 		margin: 0 0 0.5625em 0;
 	}
 
+	
+
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			border: 0;
 			color: inherit;
@@ -2965,7 +2967,14 @@ input, select, textarea {
 			.image.main {
 				height: 20em;
 			}
+		
+		/* Label */
 
+			/* #label {
+				background-color: black;
+				color: skyblue;
+			} */
+			
 		/* Header */
 
 			#header {
